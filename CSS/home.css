@@ -24,6 +24,12 @@ ul{
     height: 100%;
 }
 
+a{
+  display: block;
+  color: #000;
+  
+  text-decoration: none;
+}
 
 li a {
     display: block;
