@@ -1,0 +1,51 @@
+h1 {
+  margin: auto;
+  overflow: hidden;
+  border: 3px solid #2ec930;
+  padding: auto;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+  background-color: #2ec930;
+  color: black;
+  font-family: garamond;
+  text-align: left;
+}
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+a{
+  display: block;
+  color: #000;
+  text-decoration: none;
+}
+h2{
+
+  margin: auto;
+  overflow: hidden;
+  border: 3px solid #2ec930;
+  padding: auto;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+  background-color: #2ec930;
+  color: black;
+  font-family: garamond;
+  text-align: left;
+}
+}
+.left{
+  float:left;
+}
+
+.center {
+    	display: inline-block;
+        margin:0 auto;
+        width:33.33%;
+        text-align: center;
+    }
+    .container{
+           width:100%;
+       }
